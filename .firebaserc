@@ -1,0 +1,16 @@
+{
+  "projects": {
+    "default": "trace-flights"
+  },
+  "targets": {
+    "trace-flights": {
+      "hosting": {
+        "demo": [
+          "traceflights-demo"
+        ]
+      }
+    }
+  },
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
